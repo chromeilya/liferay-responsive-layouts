@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE layout-templates PUBLIC "-//Liferay//DTD Layout Templates 6.1.0//EN"
+    "http://www.liferay.com/dtd/liferay-layout-templates_6_1_0.dtd">
+
+<layout-templates>
+    <custom>
+
+        <layout-template id="1_2_1_hor_layout_70_30_scroll" name="1-2-1 Responsive Layout (70/30)">
+            <template-path>/1_2_1_hor_layout_70_30_scroll.tpl</template-path>
+            <wap-template-path>/1_2_1_hor_layout_70_30_scroll.tpl</wap-template-path>
+            <thumbnail-path>/1_2_1_hor_layout_70_30_scroll.png</thumbnail-path>
+        </layout-template>
+
+    </custom>
+</layout-templates>
